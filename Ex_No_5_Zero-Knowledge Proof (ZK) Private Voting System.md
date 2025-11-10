@@ -1,3 +1,4 @@
+## REG.NO:212224110035
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
@@ -76,4 +77,7 @@ Prevents vote tampering while maintaining voter privacy.
 
 Mimics real-world ZK voting applications in governance and DAOs.
 
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/9836b0bc-79f1-4c37-bd3a-8aa707945b88" />
+
 # RESULT: 
+Thus the fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
